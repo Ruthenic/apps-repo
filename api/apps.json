@@ -36,7 +36,7 @@
       "manifest": {
         "id": "youtube.leanback.v4",
         "version": "0.0.3",
-        "type": "native",
+        "type": "web",
         "title": "Youtube AdFree",
         "appDescription": "Youtube App without ADs",
         "iconUri": "https://github.com/Ruthenic/youtube-webos/blob/main/icon.png",
