@@ -110,7 +110,7 @@
         "rootRequired": false,
         "ipkUrl": "https://github.com/Ruthenic/youtube-webos/releases/latest/download/youtube.leanback.v4_0.0.4_all.ipk",
         "ipkHash": {
-          "sha256": "b3b99659e9f3ca0448a94fffbd4349d2f219e5696cdcbc3efaefb5750d9fed11"
+          "sha256": "6a49589c22b2805183f11681dbad941f180e62aa6869c5021490d11ee5d6e2e6"
         }
       },
       "shortDescription": "Youtube App without ADs",
