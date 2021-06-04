@@ -29,28 +29,6 @@
       "fullDescriptionUrl": "apps/org.chocolate-doom.demo-full_description.html"
     },
     {
-      "id": "youtube.leanback.v4",
-      "title": "Homebrew Channel",
-      "iconUri": "https://raw.githubusercontent.com/Ruthenic/youtube-webos/main/largeIcon.png",
-      "manifestUrl": "https://github.com/Ruthenic/youtube-webos/releases/latest/download/youtube.leanback.v4.manifest.json",
-      "manifest": {
-        "id": "youtube.leanback.v4",
-        "version": "0.0.4",
-        "type": "web",
-        "title": "Youtube AdFree",
-        "appDescription": "Youtube App without ADs",
-        "iconUri": "https://github.com/Ruthenic/youtube-webos/blob/main/icon.png",
-        "sourceUrl": "https://github.com/Ruthenic/youtube-webos",
-        "rootRequired": false,
-        "ipkUrl": "https://github.com/Ruthenic/youtube-webos/releases/latest/download/youtube.leanback.v4_0.0.4_all.ipk",
-        "ipkHash": {
-          "sha256": "b3b99659e9f3ca0448a94fffbd4349d2f219e5696cdcbc3efaefb5750d9fed11"
-        }
-      },
-      "shortDescription": "Youtube App without ADs",
-      "fullDescriptionUrl": "apps/youtube.leanback.v4-full_description.html"
-    },
-    {
       "id": "org.webosbrew.hbchannel",
       "title": "Homebrew Channel",
       "iconUri": "https://raw.githubusercontent.com/webosbrew/webos-homebrew-channel/main/assets/icon160.png",
@@ -115,6 +93,28 @@
       },
       "shortDescription": "Open Source emulators frontend",
       "fullDescriptionUrl": "apps/com.retroarch-full_description.html"
+    },
+    {
+      "id": "youtube.leanback.v4",
+      "title": "Youtube AdFree",
+      "iconUri": "https://raw.githubusercontent.com/Ruthenic/youtube-webos/main/largeIcon.png",
+      "manifestUrl": "https://github.com/Ruthenic/youtube-webos/releases/latest/download/youtube.leanback.v4.manifest.json",
+      "manifest": {
+        "id": "youtube.leanback.v4",
+        "version": "0.0.4",
+        "type": "web",
+        "title": "Youtube AdFree",
+        "appDescription": "Youtube App without ADs",
+        "iconUri": "https://github.com/Ruthenic/youtube-webos/blob/main/icon.png",
+        "sourceUrl": "https://github.com/Ruthenic/youtube-webos",
+        "rootRequired": false,
+        "ipkUrl": "https://github.com/Ruthenic/youtube-webos/releases/latest/download/youtube.leanback.v4_0.0.4_all.ipk",
+        "ipkHash": {
+          "sha256": "b3b99659e9f3ca0448a94fffbd4349d2f219e5696cdcbc3efaefb5750d9fed11"
+        }
+      },
+      "shortDescription": "Youtube App without ADs",
+      "fullDescriptionUrl": "apps/youtube.leanback.v4-full_description.html"
     }
   ]
 }
