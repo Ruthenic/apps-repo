@@ -1,4 +1,4 @@
-name: github pages
+name: repo site generator
 
 on:
   push:
@@ -6,6 +6,8 @@ on:
       - main
   schedule:
     - cron: 41 */3 * * *
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
 
 jobs:
   deploy:
